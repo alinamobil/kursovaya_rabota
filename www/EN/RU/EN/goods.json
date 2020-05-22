@@ -1,0 +1,272 @@
+{
+  "00001" : {
+    "id" : "00001",
+    "name" : "MINT TALE",
+    "author" : "Alexander Polyarny, 2018",
+    "category" : "imaginative",
+    "cost" : 19.60,
+    "description" : "We are used to calling ourselves a reading nation. Unfortunately, surveys conducted show that this is far from the case. Over the past 10 years, the population of our country has begun to read much less, and the quality of the literature read leaves much to be desired. Today we have the opportunity to find many interesting works on the Internet, read books online for free and without registration, but at the same time we read less. So what is the use of reading?",
+    "img" : "1.png"
+  },
+  "00002" : {
+    "id" : "00002",
+    "name" : "HARRY POTTER",
+    "author" : "Joan Rowling, 2016",
+    "category" : "imaginative",
+    "cost" : 25.90 ,
+    "description" : "Eleven-year-old orphan boy Harry Potter lives in the family of his aunt and does not even suspect that he is a real wizard. But once an owl flies in with a letter for him, and the life of Harry Potter changes forever. He learns that he is enrolled in the School of Witchcraft and Wizardry, finds out the truth about the mysterious death of his parents, and as a result he manages to uncover the secret of the philosopher's stone.",
+    "img" : "2.png"
+  },
+  "00003" : {
+    "id" : "00003",
+    "name" : "A METER APART",
+    "author" : "Rachel Lippincott, 2018",
+    "category" : "imaginative",
+    "cost" : 20.50 ,
+    "description" : "Can you fall in love with someone you can never hug?Boy and girl. Love at first sight. Love, which even a deadly disease cannot prevent.Stella and Will challenge fate and go against all. They met when they needed it most. But their love is doomed, because Will will never be able to touch Stella. His touch is deadly for a girl.But true love knows no boundaries, no prohibitions, and it definitely costs a lifetime ...",
+    "img" : "3.png"
+  },
+  "00004" : {
+    "id" : "00004",
+    "name" : "A LITTLE PRINCE",
+    "author" : "Antoine de Saint-Exupery, 2018",
+    "category" : "imaginative",
+    "cost" : 15.99 ,
+    "description" : "The most famous work of Antoine de Saint-Exupery with author's drawings. A wise and “human” fairy tale-parable, which simply and soulfully speaks of the most important: friendship and love, duty and loyalty, beauty and intolerance towards evil.“We are all from childhood,” recalls the great Frenchman and introduces us to the most mysterious and touching hero of world literature.",
+    "img" : "4.png"
+  },
+  "00005" : {
+    "id" : "00005",
+    "name" : "GOLDFINCH",
+    "author" : "Donna Tartt, 2019",
+    "category" : "imaginative",
+    "cost" : 35.60 ,
+    "description" : "The novel, which Donna Tartt, a Pulitzer Prize laureate, wrote for more than 10 years, is a huge epic canvas about the power of art and how it - sometimes not at all the way we want it - can turn our whole life around. Theo-Decker, 13, miraculously survived the explosion in which his mother died. Abandoned by his father, without a single soulmate in the whole world, he wanders around foster homes and other people's families - from New York to Las Vegas - and his only consolation, which, however, almost leads to his death, becomes stolen from him The museum is a masterpiece of the Dutch old master.",
+    "img" : "5.png"
+  },
+  "00006" : {
+    "id" : "00006",
+    "name" : "SEE YOU",
+    "author" : "Jojo Moyes, 2016",
+    "category" : "imaginative",
+    "cost" : 25.90 ,
+    "description" : "Lou Clark knows how many steps there are from the bus stop to her house. She knows that she really likes working in a cafe and that, most likely, she does not like her boyfriend Patrick. But Lou does not know that she is about to lose her job and that in the near future she will need all her strength to overcome the problems that have fallen on her.Will Trainor knows that the motorcyclist who shot him down took away his desire to live. And he knows exactly what needs to be done to put an end to all this. But he does not know that Lou will soon burst into his world with a riot of colors. And they both do not know that they will forever change each other's lives.",
+    "img" : "6.png"
+  },
+  "00007" : {
+    "id" : "00007",
+    "name" : "LAND OF JOY",
+    "author" : "Stephen King, 2019",
+    "category" : "imaginative",
+    "cost" : 35.60 ,
+    "description" : "Student Devin Jones, who decided to earn some money in the amusement park Country of Joy, suddenly as if falls into a kind of parallel world.They live here by their own rules, speak a special language and really dislike when someone asks extra questions. Especially - if they relate to the murder of a young girl Linda Gray, whose body was found in the park, in the pavilion House of Horrors.Trying to find answers to these questions, Devin understands: dangerous secrets are hidden behind the bright facade of the amusement park, and if you tear up the past of the inhabitants of the Land of Joy, then his own life can inexplicably change once and for all ...",
+    "img" : "7.png"
+  },
+  "00008" : {
+    "id" : "00008",
+    "name" : "451 DEGREES FAHRENHEIT",
+    "author" : "Ray Bradbury, 2018",
+    "category" : "imaginative",
+    "cost" : 23.40 ,
+    "description" : "451 ° Fahrenheit is the temperature at which paper ignites and burns. Bradbury’s philosophical dystopia paints a hopeless picture of the development of post-industrial society: this is the world of the future in which all written publications are ruthlessly destroyed by a special detachment of firefighters, and book storage is prosecuted by law, interactive television successfully serves to fool everyone, punitive psychiatry decisively deals with rare dissenters, and beyond incorrigible dissidents comes an electric dog ... A novel that brought its creator world fame.",
+    "img" : "8.png"
+  },
+  "00009" : {
+    "id" : "00009",
+    "name" : "BOY IN STRIPED PAJAMAS",
+    "author" : "John Boyne, 2013",
+    "category" : "imaginative",
+    "cost" : 21.60 ,
+    "description" : "The novel, which Donna Tartt, a Pulitzer Prize laureate, wrote for more than 10 years, is a huge epic canvas about the power of art and how it - sometimes not at all the way we want it - can turn our whole life around. Theo-Decker, 13, miraculously survived the explosion in which his mother died. Abandoned by his father, without a single soulmate in the whole world, he wanders around foster homes and other people's families - from New York to Las Vegas - and his only consolation, which, however, almost leads to his death, becomes stolen from him The museum is a masterpiece of the Dutch old master.",
+    "img" : "9.png"
+  },
+  "00010" : {
+    "id" : "00010",
+    "name" : "THE RIDDLE OF THE CLOSED BOX",
+    "author" : "Holly Webb, 2018",
+    "category" : "children's",
+    "cost" : 12.60 ,
+    "description" : "Of course, no one can offer me to start a search with stolen diamonds (as we would like!). For example, to help a friend of the boy who lost money because of the private key to the box!",
+    "img" : "10.png"
+  },
+  "00011" : {
+    "id" : "00011",
+    "name" : "CORALINE",
+    "author" : "Neil Gaiman,2016",
+    "category" : "children's",
+    "cost" : 24.80 ,
+    "description" : "Chris Riddell's illustrations are a gift for anyone who loves the gloomy, bewitching worlds of Neil Gaiman!Coraline is a book about a girl who suddenly discovers at the door another apartment in another house, exactly the same as her own. Amazing things happen there - another mother and another dad live, who want Coralina to stay with them and become their little daughter, and other children languish in captivity. She will have to be very brave to return",
+    "img" : "11.png"
+  },
+  "00012" : {
+    "id" : "00012",
+    "name" : "THE WIZARD OF OZ",
+    "author" : "Alexander Volkov,2016",
+    "category" : "children's",
+    "cost" : 35.60 ,
+    "description" : "The girl Ellie and her friend Toto puppy accidentally fall into a magical land. Only Goodwin the Great and Terrible, the wizard of the Emerald City, can help them return home. On the way to the Emerald City, Ellie will make friends with the Scarecrow, Ironman and the Cowardly Lion. Together they will overcome all the difficulties that have arisen in their path.",
+    "img" : "12.png"
+  },
+  "00013" : {
+    "id" : "00013",
+    "name" : "UNCLE FEDOR, DOG AND CAT",
+    "author" : "Eduard Uspensky,2019",
+    "category" : "children's",
+    "cost" : 25.10 ,
+    "description" : "The writer Eduard Uspensky is very fond of animals. And not only loves, but understands well. Perhaps even though this is a secret, he knows the dog and cat languages ​​better than Professor Semin himself from the book about Uncle Fedor. That is why the cat Matroskin and the dog Sharik, though fabulous, are so alive and real that now all cats and dogs seem similar to them. But Uncle Fedor (boy) does not look like anyone. Such children simply do not exist! Independent, responsible - a miracle child, a dream of all parents!This trinity from Prostokvashino has already conquered not one generation of children, but how much she still has to!",
+    "img" : "13.png"
+  },
+  "00014" : {
+    "id" : "00014",
+    "name" : "MORNING MAGIC",
+    "author" : "Hal Elrod,2016",
+    "category" : "business",
+    "cost" : 19.10 ,
+    "description" : "A book that has helped thousands of people change their lives through the right start to the day and morning rituals.What if tomorrow any (or even every) area of your life could miraculously change? What would be different? Would you be happier? Healthier? More successful? Would you be in better shape? Would you become richer? More energetic?What if there is a simple but not obvious secret that is guaranteed to help you change any side of your life - and do it faster than you can imagine?The morning rituals that the author of this book proposes to carry out have helped tens of thousands of people change their lives, feel better and do more.",
+    "img" : "14.png"
+  },
+  "00015" : {
+    "id" : "00015",
+    "name" : "MASTER OF TIME",
+    "author" : "Brian Tracy,2018",
+    "category" : "business",
+    "cost" : 25.50 ,
+    "description" : "Want to learn how to get the most out of your time? Effective time management, without exaggeration, can change your whole life. Performance expert Brian Tracy will explain to readers in detail what needs to be done to achieve more faster with much less effort!It offers simple steps to choose the perfect moment to solve each specific problem.",
+    "img" : "15.png"
+  },
+  "00016" : {
+    "id" : "00016",
+    "name" : "GET OUT OF YOUR COMFORT ZONE",
+    "author" : "Rachel Lippincott, 2018",
+    "category" : "business",
+    "cost" : 28.90 ,
+    "description" : "Book number 1 on self-development. It has been translated into 40 languages. Purchased more than 1,200,000 copies. This book began the worldwide success of Brian Tracy, one of the leading personal development professionals in the world.The book presents the result of more than thirty years of studying the issues of time distribution. She talks about how to achieve solutions to complex problems, leaving the comfort zone.Previously, the book was published by the Potpourri Publishing House, entitled Leave squeamishness, eat a frog!",
+    "img" : "16.png"
+  },
+  "00017" : {
+    "id" : "00017",
+    "name" : "RICH DAD, POOR DAD",
+    "author" : "Robert Kiyosaki,2019",
+    "category" : "business",
+    "cost" : 19.10 ,
+    "description" : "Are you a teenager and trying to save money for something SO-O-E? But, unfortunately, you lack the basic fundamentals of financial literacy. Yes, this is not taught at school ... But do not despair!This book will help you achieve your goal - learn how to make money. Robert Kiyosaki, who once started from scratch, gives a lot of business advice and shows how to make the right choice - a choice that really rich people make. The main thing - remember: it is never too early to start financial education!",
+    "img" : "17.png"
+  },
+  "00018" : {
+    "id" : "00018",
+    "name" : "THE GENIUS OF COMMUNICATION",
+    "author" : "Dave Kerpen,2019",
+    "category" : "business",
+    "cost" : 17.60 ,
+    "description" : "To succeed in life, it is not enough to be the most aggressive, assertive and ambitious. On the contrary, today's winners are those who seek to understand others and build effective communication with them. These are those who can teach, inspire and maintain strong bonds. Persuade and influence without suppressing.Learn 11 simple communication skills and succeed in all areas of life!",
+    "img" : "18.png"
+  },
+  "00019" : {
+    "id" : "00019",
+    "name" : "IDEA IN YOU",
+    "author" : "Robert Kiyosaki",
+    "category" : "business",
+    "cost" : 22.10 ,
+    "description" : "Man is a creator by nature: computers and smartphones, magazines and television shows, breakfast cereals and marshmallows, Facebook and Twitter - it all started as someone else's idea. Whoever came up with the project, scenario or concept of these things, he was the creator. He came up with an idea that fascinated him so much that he began to implement it, overcame obstacles and walked forward step by step until the idea became a reality. Your idea is also able to change the world. To do this, you do not need to have superpowers for business, unlimited self-confidence, money and connections.",
+    "img" : "19.png"
+  },
+  "00020" : {
+    "id" : "00020",
+    "name" : "TAKE TIME",
+    "author" : "Jake Knapp,2019",
+    "category" : "business",
+    "cost" : 23.60 ,
+    "description" : "It happens that you look back at the past day, wondering: What have I done today? Do you dream of projects and activities that someday you will surely get your hands on it ... only now this ever never comes? Do you have days when you work without rest, but feel that you still have no time?Here is a book on how to slow down this crazy race and how to find time for what is really important. The authors are convinced: it is quite possible to feel less busy, less distracted and more happy about what is happening at the moment. “Find time” is not about labor productivity.",
+    "img" : "20.png"
+  },
+  "00021" : {
+    "id" : "00021",
+    "name" : "ART OF INDIFFERENCE",
+    "author" : "Mark Manson,2018",
+    "category" : "business",
+    "cost" : 27.90 ,
+    "description" : "Modern society promotes the cult of success: be smarter, richer, more productive - be the best. Social networks are replete with stories on the topic of how some little guy came up with an application and earned a lot of money, articles in the spirit of “A Thousand and One Ways to Be Happy,” and photos in a friend create the impression that people around are living better and more interesting than we are. However, our focus on positive and success only reminds us of what we have not achieved, dreams that have not come true. How to become truly happy?Popular blogger Mark Manson offers his own, original approach to this issue. His philosophy of life is simple - you need to learn the art of indifference.",
+    "img" : "21.png"
+  },
+  "00022" : {
+    "id" : "00022",
+    "name" : "SHORT ANSWERS",
+    "author" : "Stephen Hawking,2019",
+    "category" : "business",
+    "cost" : 27.90 ,
+    "description" : "Stephen Hawking, the greatest scientist of our time, has changed our world. His departure is a huge loss for humanity. In his final book, on which Stephen Hawking worked almost until the very end, the great physicist shares with us his attitude to life, civilization, time, God, to global things that concern each of us.Here is a sensation book, a testament book, the last work of the world famous physicist Stephen Hawking, in which he sums up some things and speaks out on the most important issues that concern everyone.",
+    "img" : "22.png"
+  },
+  "00023" : {
+    "id" : "00023",
+    "name" : "THE BEST TUTORIAL",
+    "author" : "Anastasia Petrova, 2017",
+    "category" : "educational",
+    "cost" : 29.90 ,
+    "description" : "This course consists of three parts. The first part gives an express English course. Here is the basic grammatical and derivational material necessary for mastering the language in a short time. The second part contains exercises for training and text materials that contribute to the development of new vocabulary. The third part contains special materials that contribute to the development of speaking skills. Each part is accompanied by an English-Russian dictionary.The course is intended for everyone who is just starting to learn English, as well as for those who would like to restore their knowledge.",
+    "img" : "23.png"
+  },
+  "00024" : {
+    "id" : "00024",
+    "name" : "ATLAS SHRUGGED",
+    "author" : "Ayn Rand,2019",
+    "category" : "educational",
+    "cost" : 35.50 ,
+    "description" : "“Atlas Shrugged” is the central work of Russian writer Abroad Ain Rand, translated into many languages and has had a huge impact on the minds of several generations of readers. Combining fiction and realism, utopia and dystopia, romantic heroics and sizzling grotesque in a peculiar way, the author poses damned questions eternal not only in Russian literature and offers his own answers - sharp, paradoxical, and much controversial.",
+    "img" : "24.png"
+  },
+  "00025" : {
+    "id" : "00025",
+    "name" : "DESTROY ME!",
+    "author" : "Keri Smith,2018",
+    "category" : "educational",
+    "cost" : 21.10 ,
+    "description" : "Here is the continuation of the world-famous bestseller of the inimitable Keri Smith, which will teach you to erase borders, break down internal barriers and show how to give bright colors an outlet!Brand new creative assignments are now in color! This notebook is a respite, a refuge, a safe haven, a natural element, a call, a voice, a trigger, an exhaust pipe! It is up to you to decide what to do with its pages, which colors to choose and how to perform the proposed tasks.",
+    "img" : "25.png"
+  },
+  "00026" : {
+    "id" : "00026",
+    "name" : "PRIMER",
+    "author" : "2015",
+    "category" : "educational",
+    "cost" : 17.40 ,
+    "description" : "If you want to teach your child to read before he goes to school, the Primer of Nadezhda Zhukova will become an indispensable tool for you. The author presents to your attention a unique teaching methodology. It is based on the perception of syllables as a whole. Indeed, often parents and teachers are faced with the fact that the child reads the words in letters and needs to be retrained.SNadezhda Zhukova has extensive experience as a speech therapist, the textbook is based on practical knowledge. Remember that to start learning is only when the child is clearly pronouncing all the letters.",
+    "img" : "26.png"
+  },
+  "00027" : {
+    "id" : "00027",
+    "name" : "PRESCRIPTIONS",
+    "author" : "Nina Kovalevskaya",
+    "category" : "educational",
+    "cost" : 5.90 ,
+    "description" : "The manual will help a preschool child to master the working line and the boundaries of a single cell, learn to distinguish between numbers and acquire initial writing skills, get basic ideas about numbers and numbers.Designed for adults and children.",
+    "img" : "27.png"
+  },
+  "00028" : {
+    "id" : "00028",
+    "name" : "DO NO HARM",
+    "author" : "Henry Marsh,2016",
+    "category" : "educational",
+    "cost" : 23.90 ,
+    "description" : "Making mistakes or encountering strangers, we reassure ourselves with the phrases Man tends to make mistakes. But do they console the one who fell victim to someone else's incompetence? And do they console a doctor who could not help?We want to believe that the doctor is infallible in his workplace. In the operating room, he is omnipotent, never gets tired and does not feel bad, is not irritated and is not distracted by extraneous thoughts. But what is it really like to be a neurosurgeon? What is it to know that not only the patient’s life depends on your actions, but also his personality - the ability to think and create, sad and rejoice?",
+    "img" : "28.png"
+  },
+  "00029" : {
+    "id" : "00029",
+    "name" : "WINE FOLLY",
+    "author" : "Justin Hammek,2016",
+    "category" : "educational",
+    "cost" : 25.90 ,
+    "description" : "The perfect paper wine guide for the digital age. Clear, lively, without unnecessary cleverness.Basic wine information.Description of 55 main wines.Tips for harmonizing food and wine.20 geographical maps of the main wine regions.",
+    "img" : "29.png"
+  },
+  "00030" : {
+    "id" : "00030",
+    "name" : "EXERCISE FOR YOUR BRAIN",
+    "author" : "Anton the Mighty,2019",
+    "category" : "educational",
+    "cost" : 15.10 ,
+    "description" : "The book presents a sensational brain simulator created by Patrick Kelly. Carrying out daily “intellectual gymnastics” (solving simple tasks, memorizing words), we train special areas of the brain that are responsible for memory and creativity (that is, for creativity, ingenuity, non-standard). As a result of such trainings, indicators of intelligence increase, thinking becomes sharper and deeper, the student has new abilities! Thousands of Kelly's followers all over the world have secured their career growth, business successes, and general well-being by starting to work out with the simulator.",
+    "img" : "30.png"
+  }
+}
